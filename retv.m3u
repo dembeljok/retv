@@ -1,5 +1,31 @@
 #EXTM3U
 #PLAYLIST:RU (www.iptvlist.ru)
+#EXTINF:-1,СТС Love
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1,312 Кино
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1,A1 HD
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1,Black
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1,LAVA HD Русский
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1548
+#EXTINF:-1,Red
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1,TV1000 HD
+http://pilot.multiscreen.moldtelecom.md/live/eds/tv1000_hd/HLSv3/tv1000_hd.m3u8
+#EXTINF:-1,TV1000 World Kino
+http://iptv.prosto.tv:7000/ch48/video.m3u8
+#EXTINF:-1,VIP Comedy
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1,VIP Megahit
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1,VIP Premiere
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1,VIP Serial
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1,Видеокассета
+https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 ,ЮУрГУ-ТВ
 https://tvrlive.susu.ru/1800k/playlist.m3u8
 #EXTINF:-1 ,ОСН
