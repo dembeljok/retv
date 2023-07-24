@@ -62,6 +62,33 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 #EXTGRP:Эфирные
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 ,Фантастика HD
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/187241.m3u8
+#EXTINF:-1 ,Кино мир
+#EXTGRP:Кино
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8
+#EXTINF:-1 ,КиноДром
+#EXTGRP:Кино
+https://stream-us-east-1.getpublica.com/cl/230724civ7gipra6jbevb9l9n0/1920x1080_4172199_1_f.m3u8
+#EXTINF:-1 ,Хит HD
+#EXTGRP:Кино
+https://playlist.wasd.tv/live/1378341/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Страх Hd
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/202127.m3u8
+#EXTINF:-1 ,ТВ Series
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/202127.m3u8
+#EXTINF:-1 ,TURKSERIALS
+#EXTGRP:Кино
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
+#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ
+#EXTGRP:Кино
+https://ip2.ontivi.net:1443/187/index.m3u8?wmsAuthSign=1690223524p971i07i95i671Se41af542b114e3003f3ba533549694bd
+#EXTINF:-1 ,Твое тв
+#EXTGRP:Кино
+https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Kino7 Baltic
 #EXTGRP:Кино
 http://91.233.215.250:7272/Hdyt7wbXlSuwOpq
@@ -1468,6 +1495,9 @@ http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 #EXTINF:-1 ,5 Канал
 #EXTGRP:Украина
 http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 ,СТБ
+#EXTGRP:Украина
+https://ip2.ontivi.net:1443/101/index.m3u8?wmsAuthSign=1690223387p971i07i95i671Se9ce05d2f5fea65c2a80b9b8fadb3973
 #EXTINF:-1 ,Bolt
 #EXTGRP:Украина
 rtmp://93.189.60.202//991
@@ -2105,3 +2135,4 @@ http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KQHD.m3u8
 #EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K UHD
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
+
