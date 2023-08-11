@@ -62,15 +62,18 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 #EXTGRP:Эфирные
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 ,FMC
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 ,Fun-TV
+#EXTGRP:Кино
+https://hls.goodgame.ru/hls/157239.m3u8
 #EXTINF:-1 ,Фантастика HD
 #EXTGRP:Кино
 https://hls.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 ,Кино мир
 #EXTGRP:Кино
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v3a1/mono.m3u8
-#EXTINF:-1 ,КиноДром
-#EXTGRP:Кино
-https://stream-us-east-1.getpublica.com/cl/230724civ7gipra6jbevb9l9n0/1920x1080_4172199_1_f.m3u8
 #EXTINF:-1 ,Хит HD
 #EXTGRP:Кино
 https://playlist.wasd.tv/live/1378341/tracks-v1a1/mono.m3u8
@@ -83,9 +86,6 @@ https://hls.goodgame.ru/hls/202127.m3u8
 #EXTINF:-1 ,TURKSERIALS
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
-#EXTINF:-1 ,ДОМ КИНО ПРЕМИУМ
-#EXTGRP:Кино
-https://ip2.ontivi.net:1443/187/index.m3u8?wmsAuthSign=1690223524p971i07i95i671Se41af542b114e3003f3ba533549694bd
 #EXTINF:-1 ,Твое тв
 #EXTGRP:Кино
 https://tvoetv.space/tvoetv/tracks-v1a1/mono.m3u8
@@ -113,9 +113,6 @@ https://cdn-cache01.voka.tv:443/live/6002.m3u8
 #EXTINF:-1 ,Viasat Kino Comedy
 #EXTGRP:Кино
 http://91.233.215.250:7272/5RqMvVnGzdoBQbf
-#EXTINF:-1 ,Fox
-#EXTGRP:Кино
-rtmp://5.182.231.251//2055
 #EXTINF:-1 ,Amedia Premium HD
 #EXTGRP:Кино
 https://cdn-cache01.voka.tv:443/live/511.m3u8
@@ -146,9 +143,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
 #EXTINF:-1,VIP Megahit
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 ,ViP MEGAHIT
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/okko/CH_ViPMEGAHIT.m3u8
 #EXTINF:-1 ,ViP COMEDY
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDY.m3u8
@@ -158,9 +152,6 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
 #EXTINF:-1,VIP Serial
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 ,ViP SERIAL
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/okko/CH_ViPSERIAL.m3u8
 #EXTINF:-1 ,ViP COMEDY
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/okko/CH_ViPCOMEDY.m3u8
@@ -224,27 +215,12 @@ http://dmi3y-tv.ru/hls/okko/CH_STARFAMILYHD.m3u8
 #EXTINF:-1 ,Феникс+Кино HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/okko/CH_FENIKSPLUSKINOHD.m3u8
-#EXTINF:-1 ,Кино и сериалы HD (СМОТРИМ)
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
 #EXTINF:-1 ,Мелодрамы HD (СМОТРИМ)
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/smotrim/CH_MELODRAMYHD.m3u8
 #EXTINF:-1 ,ДОРАМА HD
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/okko/CH_DORAMAHD.m3u8
-#EXTINF:-1 ,НАШЕ НОВОЕ КИНО
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_NASHENOVOEKINO.m3u8
-#EXTINF:-1 ,КИНОМИКС HD
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KINOMIKSHD.m3u8
-#EXTINF:-1 ,КИНОСЕРИЯ HD
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KINOSERIYAHD.m3u8
-#EXTINF:-1 ,КИНОСЕМЬЯ HD
-#EXTGRP:Кино
-http://dmi3y-tv.ru/hls/CH_KINOSEMYAHD.m3u8
 #EXTINF:-1 ,КИНОСВИДАНИЕ
 #EXTGRP:Кино
 http://dmi3y-tv.ru/hls/CH_KINOSVIDANIE.m3u8
@@ -260,9 +236,6 @@ https://v2.catcast.tv/content/37925/index.m3u8
 #EXTINF:0-1,312 Кино
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:0 group-title="Кино" tvg-id="kinohit" tvg-logo="http://static.g-cdn.app/streams/kinohit.png" tvg-rec="7",Кинохит
-#EXTGRP:Кино
-http://s04.wsbof.com:8090/s/383b0491/kinohit.m3u8
 #EXTINF:-1 ,Hollywood
 #EXTGRP:Кино
 http://178.163.52.91:4022/udp/234.0.0.117:2000
@@ -275,9 +248,6 @@ http://178.163.52.91:4022/udp/234.0.0.119:2000
 #EXTINF:-1 ,НТВ HD
 #EXTGRP:НТВ All
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD
-#EXTGRP:НТВ All
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ +1
 #EXTGRP:НТВ All
 https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
@@ -1459,15 +1429,6 @@ https://tvsamaragis.tk/new/new/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Беларусь",СТВ Беларусь
 #EXTGRP:Беларусь
 http://80.94.225.126:8080/STV/mono.m3u8
-#EXTINF:-1 group-title="Беларусь",Беларусь 1
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a003#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 group-title="Беларусь",Беларусь 2
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a004#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
-#EXTINF:-1 group-title="Беларусь",Беларусь 3
-#EXTGRP:Беларусь
-http://37.17.12.124:8901/play/a005#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
 #EXTINF:-1 group-title="Беларусь",Белрос
 #EXTGRP:Беларусь
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
@@ -1495,9 +1456,6 @@ http://portal.ott.pink/watch/10/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359
 #EXTINF:-1 ,5 Канал
 #EXTGRP:Украина
 http://portal.ott.pink/watch/7/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,СТБ
-#EXTGRP:Украина
-https://ip2.ontivi.net:1443/101/index.m3u8?wmsAuthSign=1690223387p971i07i95i671Se9ce05d2f5fea65c2a80b9b8fadb3973
 #EXTINF:-1 ,Bolt
 #EXTGRP:Украина
 rtmp://93.189.60.202//991
@@ -1864,45 +1822,18 @@ http://178.163.52.91:4022/udp/234.0.0.198:2000
 #EXTINF:-1 ,Мультимания
 #EXTGRP:Детские
 http://178.163.52.91:4022/udp/234.0.0.210:2000
-#EXTINF:-1 ,Карусель (-1)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
 #EXTINF:-1 ,Карусель
 #EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL.m3u8
-#EXTINF:-1 ,Карусель (+2)
+http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL-1.m3u8
+#EXTINF:-1 ,Disney TV
 #EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_2.m3u8
-#EXTINF:-1 ,Карусель (+4)
+https://playlist.wasd.tv/live/1684244/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,TiJi
 #EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_4.m3u8
-#EXTINF:-1 ,Карусель (+6)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_6.m3u8
-#EXTINF:-1 ,Карусель (+7)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_7.m3u8
-#EXTINF:-1 ,Карусель (+8)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/DVB-T2/CH_KARUSEL_8.m3u8
-#EXTINF:-1 ,Солнце (-1)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY-1.m3u8
+https://nsk19.peers.tv/streaming/tiji/16/vh1w/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE2OTE4NDMzNzMsImlhdCI6MTY5MTc1Njk3MywiY2lkIjo4MSwidWlkIjo2MzA1MDQ0MTQsInJlZyI6ZmFsc2UsImlwIjoxNjA0NTc4NjQxfQ.V3Nrf7r--DaR0Vo1t0TdWVQ_kQBFaTJTwiAwTaIC-8c
 #EXTINF:-1 ,Солнце
 #EXTGRP:Детские
 http://dmi3y-tv.ru/hls/zabava/CH_DISNEY.m3u8
-#EXTINF:-1 ,Солнце (+2)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_2.m3u8
-#EXTINF:-1 ,Солнце (+4)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_4.m3u8
-#EXTINF:-1 ,Солнце (+6)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_6.m3u8
-#EXTINF:-1 ,Солнце (+7)
-#EXTGRP:Детские
-http://dmi3y-tv.ru/hls/zabava/CH_DISNEY_7.m3u8
 #EXTINF:-1 ,Мультиландия
 #EXTGRP:Детские
 http://dmi3y-tv.ru/hls/okko/CH_MULTILANDIYA.m3u8
@@ -2135,4 +2066,5 @@ http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KQHD.m3u8
 #EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K UHD
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
+
 
