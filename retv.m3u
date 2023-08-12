@@ -2066,5 +2066,156 @@ http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KHD.m3u8
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KQHD.m3u8
 #EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K UHD
 http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
+#EXTINF:-1 ,ARMTV1 H1
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/h1/tracks-v1a1/mono.m3u8?token=21c2a4707224ecadeb2754746a299f250d93da0a-334f0fefd45532f8e6119a0d2613c313-1691836398-1691825598
+#EXTINF:-1 ,ARMTV2 H2 ARMENIA TV2 CHANNEL
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/h2/tracks-v1a1/mono.m3u8?token=14704a9f15940565d52ea61f2e97aea2a39f4390-1b81cbcc92e60cc0ac73c20094993fff-1691836413-1691825613
+#EXTINF:-1 ,ARMENIA-TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/armenia/tracks-v1a1/mono.m3u8?token=2542a26d40db2bb6d84e3f9bae35fc37e1fb427a-7b01c47abc61f3b52c29a146ea6795b6-1691836655-1691825855
+#EXTINF:-1 ,KENTRON TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/kentron/tracks-v1a1/mono.m3u8?token=32eaf53bc042138c0bc5225e98d45bb044420883-91b7c0287dac4dad3513b8872e225808-1691836718-1691825918
+#EXTINF:-1 ,YERKIR MEDIA
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/ym/tracks-v1a1/mono.m3u8?token=2fb1b549430bf9cab449287aefccd6fd0ed82334-5bd2a41a1f3e7c8b3505c51e3525987c-1691836811-1691826011
+#EXTINF:-1 ,ARMNEWS TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/armnews/tracks-v1a1/mono.m3u8?token=07ef3ddf58e666a050579c4d23bfebf0561146f0-4c2545787682e3837ef1119f01290471-1691836878-1691826078
+#EXTINF:-1 ,A-TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/atv/tracks-v1a1/mono.m3u8?token=d5a6368b8661ecba77a4fa9e70bf95cd90e89303-7fcdf03fa2ea309fdd0ef9d794a818d4-1691836940-1691826140
+#EXTINF:-1 ,5TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/5tv/tracks-v1a1/mono.m3u8?token=570ea61d9cfbb997e04d07bd5b6d20f2d8a01097-a14104bf73a4df935c0189ac49ab60ad-1691837024-1691826224
+#EXTINF:-1 ,AZATUTYUN TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/azatutyun/tracks-v1a1/mono.m3u8?token=f264c5150e989532210f975d89cf3ebaa5ec3522-3efeb29c78b8f8b4d2067e34f45c764e-1691837095-1691826295
+#EXTINF:-1 , NOR HAYASTAN
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/nor-hayastan/tracks-v1a1/mono.m3u8?token=c2d8e9d9f6e7b104457602efd78f516f52b09387-3004fac8139cd165f1a39bcd2dae320f-1691837183-1691826383
+#EXTINF:-1 , SHOGHAKAT TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/shoghakat/tracks-v1a1/mono.m3u8?token=9e22156b0acd510fef9168ca10d758f994df41c4-52a1eba6dcc74b12e159e214fab62add-1691837269-1691826469
+#EXTINF:-1 , DAR21 ARMENIA
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/dar21/tracks-v1a1/mono.m3u8?token=50d5c704b8d9f5b62c4a5c93397722c81658503d-104ae546c1124f070fb5631b50d3997b-1691837371-1691826571
+#EXTINF:-1 , PANARMENIAN TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/panarmenian/tracks-v1a1/mono.m3u8?token=a5ca3907cda72e3f78522d0c3e2813f9f6fe08f7-7c82899251f2283854d2e426dca3666c-1691837439-1691826639
+#EXTINF:-1 , USARMENIA TV
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/usarmenia/tracks-v1a1/mono.m3u8?token=455ca4ab1e5805cfbfa84140096264348622beae-9ed6a0ea1962f629bb62d89f5c3f853d-1691837517-1691826717
+#EXTINF:-1 ,  ARTN USA TV ARMENIA
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/artn/tracks-v1a1/mono.m3u8?token=7e717b7324939c531005366a5bca60159f68772f-75a4bd0cc7d3978a1a51c51a41c3c926-1691837600-1691826800
+#EXTINF:-1 ,  HAYASTANTV COMEDY
+#EXTGRP:Армения
+https://cdn.hayastantv.com:8088/hayastantvcomedy/tracks-v1a1/mono.m3u8?token=0f74d7d3a770697d43921d380b6458d167cae836-eabb5be1551e57aa410b6319b288175e-1691837741-1691826941
+#EXTINF:-1 , ОХ-АХ HD 
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/1/index.m3u8?wmsAuthSign=1691840587p212i53i3i581S3a4b15940f40effb8697e3b82e64c360
+#EXTINF:-1 , Brazzers TV Europe
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/2/index.m3u8?wmsAuthSign=1691840737p212i53i3i581S6ef856bd3865ba41a8738d9211874d80
+#EXTINF:-1 , Brazzers TV 
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/46/index.m3u8?wmsAuthSign=1691840869p212i53i3i581S576ae12c944d49bcb6a6b90f33da9c28
+#EXTINF:-1 , Red Lips
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/3/index.m3u8?wmsAuthSign=1691841002p212i53i3i581S7e6499b5b01371923ae36a0374c4a764
+#EXTINF:-1 , French Lover
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/48/index.m3u8?wmsAuthSign=1691841076p212i53i3i581Sad89b69e2627b78cac95983966ef20fe
+#EXTINF:-1 , KinoXXX
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/49/index.m3u8?wmsAuthSign=1691841238p212i53i3i581S71f573b98407aa148e246e759c4ca303
+#EXTINF:-1 , XY Max HD
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/43/index.m3u8?wmsAuthSign=1691841318p212i53i3i581Sac7b5a49767829aeb6e109b168820282
+#EXTINF:-1 , XY Plus HD
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/50/index.m3u8?wmsAuthSign=1691841394p212i53i3i581S33547f9d5c4d6318dab8bf77247c8e5f
+#EXTINF:-1 , XY Mix HD
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/55/index.m3u8?wmsAuthSign=1691841475p212i53i3i581S62d2a79c7c0c58dd9feca91c266f684d
+#EXTINF:-1 , Barely legal
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/42/index.m3u8?wmsAuthSign=1691841550p212i53i3i581S9310d7b6a71a80bc1f7a2b9c547b52a1
+#EXTINF:-1 , Playboy TV
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/6/index.m3u8?wmsAuthSign=1691841749p212i53i3i581Sa1e7c02f3c930a623e2c9e1166a2478e
+#EXTINF:-1 , Vivid Red HD
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/7/index.m3u8?wmsAuthSign=1691841809p212i53i3i581S85f7ad6476bcd28058fb873318878826
+#EXTINF:-1 , Exxxotica HD
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/52/index.m3u8?wmsAuthSign=1691841905p212i53i3i581Scbb91e6a8209e6dcb2b2a11e8c38dcfe
+#EXTINF:-1 , Eroxxx HD
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/47/index.m3u8?wmsAuthSign=1691842025p212i53i3i581S00a26ea33a9cc309228a9f8255d328d6
+#EXTINF:-1 , Hustler HD
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/10/index.m3u8?wmsAuthSign=1691842100p212i53i3i581S8258df8498b2aa2983c8ae8bb7244d89
+#EXTINF:-1 , Private TV 
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/11/index.m3u8?wmsAuthSign=1691842150p212i53i3i581Sd9b0e7a855b84aa61568f2aae3dcb3fa
+#EXTINF:-1 , Redlight HD
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/12/index.m3u8?wmsAuthSign=1691842208p212i53i3i581S2c356a19280f86413b00ae59ab14fd17
+#EXTINF:-1 , Penthouse Gold HD
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/39/index.m3u8?wmsAuthSign=1691842257p212i53i3i581S4d876e65af0bf299fba7fcad945327b9
+#EXTINF:-1 , Penthouse Quickies
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/16/index.m3u8?wmsAuthSign=1691842320p212i53i3i581S439a8f369df818a4c67593ac9bc6393a
+#EXTINF:-1 , O-la-la
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/17/index.m3u8?wmsAuthSign=1691842379p212i53i3i581Sb0c81ba450acdcdc745fa90eb0b23adc
+#EXTINF:-1 , Blue Hustler
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/19/index.m3u8?wmsAuthSign=1691842563p212i53i3i581S1d0315d532074c3c55287da15883c052
+#EXTINF:-1 , Шалун
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/20/index.m3u8?wmsAuthSign=1691842620p212i53i3i581S6da87273ae7a7b948615c85f5cf9a2d3
+#EXTINF:-1 , Extasy HD
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/29/index.m3u8?wmsAuthSign=1691842735p212i53i3i581S02c6c5ee977acc6b50ae6f84b0c4b082
+#EXTINF:-1 , XXL
+#EXTGRP:Для Взрослых
+https://ip4.pokaz.me:1443/30/index.m3u8?wmsAuthSign=1691842788p212i53i3i581S01b23a8c737b94204dd25772b15f07ba
+#EXTINF:-1 , FAP TV 2
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/26/index.m3u8?wmsAuthSign=1691842842p212i53i3i581Sf18aa295b655ba061e0f8116fbb90873
+#EXTINF:-1 , FAP TV 3
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/27/index.m3u8?wmsAuthSign=1691842894p212i53i3i581S7b7bf7bb71359657901dcabcca2c2c32
+#EXTINF:-1 , FAP TV 4
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/28/index.m3u8?wmsAuthSign=1691842935p212i53i3i581S4d8ea9e2777e5a4eeb51c1e2b8e56d63
+#EXTINF:-1 , FAP TV Parody 
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/32/index.m3u8?wmsAuthSign=1691842980p212i53i3i581S1c8f7c2f961fee07590a7c9d54a0c5d6
+#EXTINF:-1 , FAP TV Compilation
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/34/index.m3u8?wmsAuthSign=1691843040p212i53i3i581Sf8583b6a0eb550324c95f29ab75ca8c5
+#EXTINF:-1 , FAP TV ANAL
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/35/index.m3u8?wmsAuthSign=1691843099p212i53i3i581S33a528cf38246cfbc0ab8b9179f8d07f
+#EXTINF:-1 , FAP TV Teens
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/36/index.m3u8?wmsAuthSign=1691843167p212i53i3i581Saa1e5024592164c29c5f674a6a9b80b6
+#EXTINF:-1 , FAP TV Lesbian
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/37/index.m3u8?wmsAuthSign=1691843469p212i53i3i581Se20a1a08a8d188ed2cbe02f39b7cc2cf
+#EXTINF:-1 , FAP TV BBW
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/38/index.m3u8?wmsAuthSign=1691843517p212i53i3i581S34e5c6a4a78592e27b963164509b5ac4
+#EXTINF:-1 , FAP TV TRANS
+#EXTGRP:Для Взрослых
+https://ip3.pokaz.me:1443/40/index.m3u8?wmsAuthSign=1691843576p212i53i3i581Sd9cd8d56834c53f2740d07fa46d86758
+
 
 
