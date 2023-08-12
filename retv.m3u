@@ -62,6 +62,21 @@ http://dmi3y-tv.ru/hls/DVB-T2/CH_TNT.m3u8
 #EXTINF:-1 ,МУЗ ТВ
 #EXTGRP:Эфирные
 http://dmi3y-tv.ru/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 ,Мужское кино
+#EXTGRP:Кино
+http://89.23.107.152:8081/2023/muzhskoe-channel/chunks.m3u8?nimblesessionid=133633&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDEwOjQzOjQ1IEFNJmhhc2hfdmFsdWU9NzMyR1RucmJNTzh4WTFsU3JMN1Uwdz09JnZhbGlkbWludXRlcz0yNQ==
+#EXTINF:-1 ,НСТ
+#EXTGRP:Кино
+http://89.23.107.152:8081/2023/nst-channel/chunks.m3u8?nimblesessionid=133683&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDEwOjQ4OjEwIEFNJmhhc2hfdmFsdWU9aWxCYjUrSU1sTThPKytGR0VpZkpiUT09JnZhbGlkbWludXRlcz0yNQ==
+#EXTINF:-1 ,Кинокомедия ТВ
+#EXTGRP:Кино
+http://89.23.107.152:8081/2023/komediya-channel/chunks.m3u8?nimblesessionid=133704&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDEwOjQ5OjMyIEFNJmhhc2hfdmFsdWU9UDA1RHRmdFBCdlUvK3FIWVZBOExJQT09JnZhbGlkbWludXRlcz0yNQ==
+#EXTINF:-1 ,Кино улитка ТВ
+#EXTGRP:Кино
+http://46.29.235.97:8081/2023/kino-tv-channel/chunks.m3u8?nimblesessionid=28888&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDEwOjUxOjQ5IEFNJmhhc2hfdmFsdWU9N3VUeDlWaWVsWFM5RmloaXVFYnA3dz09JnZhbGlkbWludXRlcz0yNQ==
+#EXTINF:-1 ,Наша Комедия
+#EXTGRP:Кино
+http://89.23.107.152:8081/2023/nasha-comediya-channel/chunks.m3u8?nimblesessionid=133751&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIzIDEwOjUzOjMxIEFNJmhhc2hfdmFsdWU9RXB3ckhQNzZPUGRUK0VGRUc1S25ZZz09JnZhbGlkbWludXRlcz0yNQ==
 #EXTINF:-1 ,FMC
 #EXTGRP:Кино
 https://hls.goodgame.ru/hls/187741.m3u8
@@ -2216,6 +2231,7 @@ https://ip3.pokaz.me:1443/38/index.m3u8?wmsAuthSign=1691843517p212i53i3i581S34e5
 #EXTINF:-1 , FAP TV TRANS
 #EXTGRP:Для Взрослых
 https://ip3.pokaz.me:1443/40/index.m3u8?wmsAuthSign=1691843576p212i53i3i581Sd9cd8d56834c53f2740d07fa46d86758
+
 
 
 
