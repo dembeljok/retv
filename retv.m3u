@@ -83,7 +83,7 @@ https://hls.goodgame.ru/hls/202127.m3u8
 #EXTINF:-1 ,ТВ Series
 #EXTGRP:Кино
 https://hls.goodgame.ru/hls/202127.m3u8
-#EXTINF:-1 ,TURKSERIALS
+#EXTINF:-1 ,Сапфир
 #EXTGRP:Кино
 https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD/720p.m3u8
 #EXTINF:-1 ,Твое тв
@@ -103,7 +103,7 @@ http://178.163.52.91:4022/udp/234.0.0.213:2000
 http://178.163.52.91:4022/udp/234.0.0.219:2000
 #EXTINF:-1 ,Amedia Premium HD
 #EXTGRP:Кино
-https://cdn-cache01.voka.tv:443/live/511.m3u8
+http://stream01.vnet.am/AmediaPremium/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Amedia Hit HD
 #EXTGRP:Кино
 https://cdn-cache01.voka.tv:443/live/1662.m3u8
@@ -233,6 +233,87 @@ http://178.163.52.91:4022/udp/234.0.0.118:2000
 #EXTINF:-1 ,Киносерия
 #EXTGRP:Кино
 http://178.163.52.91:4022/udp/234.0.0.119:2000
+#EXTINF:-1 ,FightBox
+#EXTGRP:Армения
+http://stream01.vnet.am/Fightbox/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,News",First Channel News (1080p
+#EXTGRP:Армения
+https://amtv1-2.livestreamingcdn.com/am3abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Fox
+#EXTGRP:Армения
+https://stream01.vnet.am/Fox/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,H1
+#EXTGRP:Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,H1
+#EXTGRP:Армения
+http://amtv1.livestreamingcdn.com/am2abr/tracks-v2a1/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Hollywood
+#EXTGRP:Армения
+http://stream01.vnet.am/ParamountChannel/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Nicktoons
+#EXTGRP:Армения
+https://stream01.vnet.am/Boomerang/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,SONGTV (720p)
+#EXTGRP:Армения
+https://songtv.hls.iptvdc.com/web-armenia/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TV5Monde Europe
+#EXTGRP:Армения
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Telekriti (720p)
+#EXTGRP:Армения
+https://neon.streams.gr:8081/telekriti/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Бокс ТВ
+#EXTGRP:Армения
+http://stream01.vnet.am/BoksTv/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Детский мир
+#EXTGRP:Армения
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Дом Кино
+#EXTGRP:Армения
+https://stream01.vnet.am/DomKino/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Индия
+#EXTGRP:Армения
+https://stream01.vnet.am/ZeeTV/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Пятница International
+#EXTGRP:Армения
+https://stream01.vnet.am/Pyatnica/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Առաջին ալիք
+#EXTGRP:Армения
+https://amtv1.livestreamingcdn.com/am2abr/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Nuta TV (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/nuta.stream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Polo TV (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/PoloTV.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Polsat (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/Polsat.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Polsat 2 (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/Polsat2.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Polsat Film (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/PolsatFilm.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Stopklatka TV (720p)
+#EXTGRP:Poland
+https://cdn-main.lolokoko.tv/StopklatkaTV.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TV Imperium (1080p)
+#EXTGRP:Poland
+https://91-193-208-10.eimperium.pl/TVIMPERIUM/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TV Jasło (720p)
+#EXTGRP:Poland
+https://cdn.aztv.pl/hls/live_tvjaslo.stream.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TV Regionalna
+#EXTGRP:Poland
+https://tvreg.klemit.net/regionalna/stream/index.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,TVT (720p)
+#EXTGRP:Poland
+https://live.streamtvt.pl/LiveAppStreamTVT/streams/853271271313930867905724.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 ,Telewizja Kujawy
+#EXTGRP:Poland
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,CGTN Русский
 #EXTGRP:Казахстан
 https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
@@ -1506,7 +1587,7 @@ http://80.94.225.126:8080/STV/mono.m3u8
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
 #EXTINF:-1 group-title="Беларусь",Беларусь 24
 #EXTGRP:Беларусь
-https://sc.id-tv.kz:443/Belarus24_34_35.m3u8
+https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="Беларусь",Беларусь 1
 #EXTGRP:Беларусь
 http://86.57.178.105:8421/bel1
@@ -1519,6 +1600,18 @@ http://f1.stream.devkom.pro:1063/ramowka/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Витебск HD
 #EXTGRP:Беларусь
 https://flu.vtv.by/tvt-non-by/index.m3u8#sapp_flv2mpeg4=1&sapp_live_ts=1&sapp_progressive=1
+#EXTINF:-1 group-title="Беларусь",Первый Музыкальный BY
+#EXTGRP:Беларусь
+http://rtmp.one.by:1200?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Беларусь",Первый Музыкальный BY [FHD]
+#EXTGRP:Беларусь
+http://rtmp.one.by:1300?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Беларусь",Первый Музыкальный RU BY
+#EXTGRP:Беларусь
+http://rtmp.one.by:2200?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Беларусь",Первый Музыкальный RU BY FHD
+#EXTGRP:Беларусь
+http://rtmp.one.by:2300?checkedby:iptvcat.com
 #EXTINF:-1 ,Конный мир
 #EXTGRP:Спорт
 http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
@@ -1925,21 +2018,3 @@ http://dmi3y-tv.ru/hls/CH_FASHIONTV_SK.m3u8
 http://dmi3y-tv.ru/hls/okko/CH_FASHIONTV.m3u8
 #EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV HD
 http://dmi3y-tv.ru/hls/CH_FASHIONTVHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX HD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX QHD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",ULTRA REX UHD
-http://dmi3y-tv.ru/hls/zabava/CH_RUSSIANEXTREMEULTRAUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema HD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema QHD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Ultra HD Cinema UHD
-http://dmi3y-tv.ru/hls/zabava/CH_ULTRAHDCINEMAUHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K HD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K QHD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KQHD.m3u8
-#EXTINF:-1 group-title="4К (UltraHD)",Наша Сибирь 4K UHD
-http://dmi3y-tv.ru/hls/zabava/CH_NASHASIBIR4KUHD.m3u8
