@@ -1906,6 +1906,69 @@ http://dmitry-tv.ddns.net/hls/CH_KUHNYATV.m3u8
 #EXTINF:-1 ,RTG HD
 #EXTGRP:Познавательные
 http://dmitry-tv.ddns.net/hls/CH_RTGHD.m3u8
+#EXTINF:-1 ,Шелк ТВ HD
+#EXTGRP:Для Взрослых
+http://live-1.otcnet.ru/shelkhdmts/index.m3u8
+#EXTINF:-1 ,Russian HD (18+)
+#EXTGRP:Для Взрослых
+http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
+#EXTINF:-1 ,18+
+#EXTGRP:Для Взрослых
+http://api.alpaca.t62a.com/hls/9108/stream0.m3u8
+#EXTINF:-1 ,Anal
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 ,Big Ass
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 ,Big Tits
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/bigtits.m3u8
+#EXTINF:-1 ,Fetish HD
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/fetish.m3u8
+#EXTINF:-1 ,Hard Core
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/hardcore.m3u8
+#EXTINF:-1 ,Latina HD 720
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/latina.m3u8
+#EXTINF:-1 ,Lesbian HD
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/lesbian.m3u8
+#EXTINF:-1 ,Milf HD
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/milf.m3u8
+#EXTINF:-1 ,Pornstar HD
+#EXTGRP:Для Взрослых
+http://live.redtraffic.xyz/pornstar.m3u8
+#EXTINF:-1 ,BLONDE
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 ,BRUNETTE
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 ,Interracial Channel HD
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 ,Latina Channel HD
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 ,Lesbian
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 ,Live Cams
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 ,POV
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 ,TEEN
+#EXTGRP:Для Взрослых
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 ,Erox
+#EXTGRP:Для Взрослых
+http://94.229.250.73:8008/play/a002
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",CGTN РУССКИЙ
 http://dmitry-tv.ddns.net/hls/CH_CGTN_RU.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",360° НОВОСТИ
